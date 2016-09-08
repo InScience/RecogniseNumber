@@ -1,0 +1,29 @@
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.Android.dll
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.Android.pdb
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.Android.HelloWorld.Android-Signed.apk
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\HelloWorld.Android.dll
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\HelloWorld.Android.pdb
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\android\bin\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\res\layout\main.xml
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\res\values\strings.xml
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\R.cs.flag
+C:\Users\Laurynas\documents\visual studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\uploadflags.txt
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\HelloWorld.Android.csprojResolveAssemblyReference.cache
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\obj\Debug\HelloWorld.Android.dll.mdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.Android.dll.mdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\HelloWorld.Android.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\HelloWorld.Android.pdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\bin\Debug\HelloWorld.Android.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\bin\Debug\HelloWorld.Android.pdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\bin\Debug\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\bin\Debug\HelloWorld.Android.HelloWorld.Android-Signed.apk
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\android\bin\HelloWorld.Android.HelloWorld.Android.apk
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\res\layout\main.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\res\values\strings.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\R.cs.flag
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\uploadflags.txt
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\obj\Debug\HelloWorld.Android.dll.mdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorld.Android\bin\Debug\HelloWorld.Android.dll.mdb

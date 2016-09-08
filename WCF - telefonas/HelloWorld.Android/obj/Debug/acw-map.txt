@@ -1,0 +1,4 @@
+HelloWorld.Droid.MainActivity, HelloWorld.Android;md5fd8ed8046cea676d1ed0ce1fd728c386.MainActivity
+HelloWorld.Droid.MainActivity, HelloWorld.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fd8ed8046cea676d1ed0ce1fd728c386.MainActivity
+HelloWorld.Droid.MainActivity;md5fd8ed8046cea676d1ed0ce1fd728c386.MainActivity
+helloworld.droid.MainActivity;md5fd8ed8046cea676d1ed0ce1fd728c386.MainActivity

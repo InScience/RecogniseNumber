@@ -1,0 +1,40 @@
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\ApplicationInsights.config
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll.config
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\HelloWorldWcfHost.pdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.Web.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.Web.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.pdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\bin\openalpr-net.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.csprojResolveAssemblyReference.cache
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\ApplicationInsights.config
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll.config
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\HelloWorldWcfHost.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\HelloWorldWcfHost.pdb
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.Web.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\openalpr-net.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.Web.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.csprojResolveAssemblyReference.cache
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.dll
+C:\Users\Laurynas\Documents\Visual Studio 2015\Projects\HelloWorld - Copy (2)\HelloWorldWcfHost\obj\Debug\HelloWorldWcfHost.pdb
